@@ -122,7 +122,7 @@ function App() {
 			handleEqualsClick(currentLog);
 		}
 
-		if (math.match(/trig|log|number|comma|prnths|ans|sqrt|exponent/)) {
+		if (math.match(/trig|log|number|comma|prnths|ans|sqrt|exponent|sqr/)) {
 			setCalculator((prev) => {
 				if (clickedEquals) {
 					prev[`log`] = keyLog;
@@ -134,7 +134,7 @@ function App() {
 			});
 		}
 
-		if (math.match(/sum|sub|multiply|divide|power|inv/)) {
+		if (math.match(/sum|sub|multiply|divide|power|inv|sqr/)) {
 			setCalculator((prev) => {
 				if (clickedEquals) {
 					prev[`log`] = `Ans${keyLog}`;
