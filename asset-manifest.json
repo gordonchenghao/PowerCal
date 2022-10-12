@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PowerCal/static/css/main.33a921b2.css",
+    "main.js": "/PowerCal/static/js/main.cdef1a5d.js",
+    "static/js/787.83b4e95d.chunk.js": "/PowerCal/static/js/787.83b4e95d.chunk.js",
+    "index.html": "/PowerCal/index.html",
+    "main.33a921b2.css.map": "/PowerCal/static/css/main.33a921b2.css.map",
+    "main.cdef1a5d.js.map": "/PowerCal/static/js/main.cdef1a5d.js.map",
+    "787.83b4e95d.chunk.js.map": "/PowerCal/static/js/787.83b4e95d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33a921b2.css",
+    "static/js/main.cdef1a5d.js"
+  ]
+}
